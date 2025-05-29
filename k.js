@@ -6,3 +6,4 @@ let d='yes a i am'
 let m='i am cool'   	
 
 let f='This is a bad code'
+console.log('This is supposed to happen')
